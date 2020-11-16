@@ -1,2 +1,2 @@
-class Artist < AcgieRecord::Base
+class Artist < ActieRecord::Base
 end
